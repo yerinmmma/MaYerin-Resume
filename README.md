@@ -20,16 +20,15 @@ GitHub: github.com/yerinmmma
 
 [4]프로젝트 경험
  1. 파이썬 기반 식당 추천 프로그램 제작 (2024.11)
-[🔗 파이썬 프로젝트 main](https://github.com/yerinmmma/Yerin-Portfolio/blob/main/main.py)
-[🔗 파이썬 프로젝트 import](https://github.com/yerinmmma/Yerin-Portfolio/blob/main/restaurant.py)
+[🔗 코드 보기 main](https://github.com/yerinmmma/Yerin-File/blob/main/main.py)
+[🔗 코드 보기 import](https://github.com/yerinmmma/Yerin-File/blob/main/restaurant.py)
  2. 클라우드 보안 및 위협 분석 보고서 (2025.04)
-[🔗 클라우드 보안 보고서](https://github.com/yerinmmma/Yerin-Portfolio/blob/main/클라우드%20보안%20보고서.docx)
+[🔗 클라우드 보안 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/클라우드%20보안%20보고서.docx)
+
  3. AI 기반 침입 탐지 시스템 연구 보고서 (2025.06)
-[🔗  AI 기반 침입 탐지 시스템 연구 보고서](https://github.com/yerinmmma/Yerin-Portfolio/blob/main/인공지능(AI)%20기반%20침입%20탐지%20시스템.docx)
- 
+[🔗  AI 기반 침입 탐지 시스템 연구 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/인공지능(AI)%20기반%20침입%20탐지%
  4. 제로 트러스트보안 모델 연구 및 발표 (2025.05)
-[🔗제로 트러스트보안 모델 발표자료](https://github.com/yerinmmma/Yerin-Portfolio/blob/main/제로트러스트.pptx)
-    
+[🔗제로 트러스트보안 모델 발표자료](https://github.com/yerinmmma/Yerin-File/blob/main/제로트러스트.pptx)
 
 [5] 기타 경험
  1. 뺵다방 (2024.06~2025.10)
