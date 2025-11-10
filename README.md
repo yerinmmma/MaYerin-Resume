@@ -19,15 +19,37 @@ GitHub: github.com/yerinmmma
 파이썬, c, 자바
 
 [4]프로젝트 경험
- 1. 파이썬 기반 식당 추천 프로그램 제작 (2024.11)
+ 1. 파이썬 기반 식당 추천 프로그램 제작 (2024.11) 파이썬 기반 식당 추천 프로그램 제작 (2024.11)
+음식 카테고리(한식, 양식, 중식, 일식 등)를 기반으로 식당을 추천하는 프로그램을 개발함.
+Python의 클래스(class)를 활용해 사용자 입력에 따라 조건별로 결과를 출력하도록 설계함.
+restaurant.py 모듈을 import 구조로 연동하여 코드의 재사용성과 유지보수성을 높임.
+데이터 분류 및 로직 구조화를 통해 객체지향 프로그래밍 개념을 실습함.
 [🔗 코드 보기 main](https://github.com/yerinmmma/Yerin-File/blob/main/main.py)
 [🔗 코드 보기 import](https://github.com/yerinmmma/Yerin-File/blob/main/restaurant.py)
- 2. 클라우드 보안 및 위협 분석 보고서 (2025.04)
+ 2. 클라우드 보안 및 위협 분석 보고서 (2025.04) 클라우드 환경에서 발생할 수 있는 보안 취약점과 데이터 유출 위험을 중심으로,
+암호화 기술, IAM(Identity & Access Management), 취약점 관리 체계를 심층적으로 조사함.
+또한 제로 트러스트(Zero Trust) 및 AI 기반 보안 전략을 비교 분석하여
+각 접근 방식의 한계와 상호 보완 가능성을 도출함.
+실제 사례인 Capital One(2019), TransUnion(2022) 보안 사고를 분석하여
+기업의 클라우드 보안 거버넌스와 리스크 대응 체계 개선 방향을 제시함.
+
 [🔗 클라우드 보안 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/클라우드%20보안%20보고서.docx)
 
- 3. AI 기반 침입 탐지 시스템 연구 보고서 (2025.06)
+ 3. AI 기반 침입 탐지 시스템 연구 보고서 (2025.06) CNN-LSTM, Autoencoder, GAN 등 인공지능·머신러닝 기반 침입 탐지(IDS) 모델의
+구조와 학습 메커니즘을 비교·분석함.
+실제 보안 데이터셋을 활용하여 데이터 편향, 오탐(False Positive), 미탐(False Negative) 문제를 검토하고,
+모델의 성능 한계 및 개선 가능성을 평가함.
+나아가 윤리적, 법적 쟁점과 AI 보안의 신뢰성(Trustworthy Security) 확보 방안을 탐구하여
+예측형 보안 체계로의 발전 방향을 제시함.
 [🔗  AI 기반 침입 탐지 시스템 연구 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/인공지능(AI)%20기반%20침입%20탐지%
- 4. 제로 트러스트보안 모델 연구 및 발표 (2025.05)
+ 4. 제로 트러스트보안 모델 연구 및 발표 (2025.05) 기존 경계 기반 보안 모델(Perimeter Security)의 구조적 한계를 분석하고,
+제로 트러스트(Zero Trust) 프레임워크를 통한 내부 위협 방지 및 접근 제어 강화 방안을 제시함.
+Colonial Pipeline(2021), MOVEit(2023) 사례를 중심으로
+침입 경로와 인증 실패 요인을 비교 분석하고,
+MFA(Multi-Factor Authentication), 마이크로 세그멘테이션(Micro-Segmentation),
+SDP(Software Defined Perimeter) 등의 핵심 기술 원리를 시각 자료와 함께 발표함.
+이를 통해 제로 트러스트 구현 시 고려해야 할 기술적, 관리적 요소를 체계적으로 정리함.
+
 [🔗제로 트러스트보안 모델 발표자료](https://github.com/yerinmmma/Yerin-File/blob/main/제로트러스트.pptx)
 
 [5] 기타 경험
