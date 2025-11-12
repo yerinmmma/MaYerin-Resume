@@ -14,22 +14,21 @@ Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 ## [1] 🧑‍💻 기본정보
 <img src="https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Profile Image" width="150" style="border-radius:10px;">
 
-
-| 항목 | 내용 |
-|------|------|
-| 이름 | 마예린 (Ma Yerin) |
-| 생년월일 | 2003.06.30 |
-| 주소 | 경기도 용인시 |
-| 이메일 | [yelinma66@gmail.com](mailto:yelinma66@gmail.com) |
-| GitHub | [github.com/yerinmmma](https://github.com/yerinmmma) |
+**이름:** 마예린 (Ma Yerin)  
+**생년월일:** 2003.06.30  
+**주소:** 경기도 용인시  
+**이메일:** [yelinma66@gmail.com](mailto:yelinma66@gmail.com)  
+**GitHub:** [github.com/yerinmmma](https://github.com/yerinmmma)
 
 ---
+
 ## [2] 🎓 학력사항
 | 기간 | 학교명 | 전공 | 비고 |
 |------|---------|------|------|
 | 2024.03 ~ 재학중 | 단국대학교 | 사이버보안학과 |  |
 | 2022.03 ~ 2024.02 | 부산대학교 | 경제학과 | 중퇴 |
 | 2019.03 ~ 2021.01 | 금호중앙여자고등학교 |  | 졸업 |
+
 
 ---
 ## [3] 💻 기술 스택
