@@ -12,6 +12,10 @@ Markdown으로 작성한 개인 이력서 저장소
 
 ---
 ## [1] 🧑‍💻 기본정보
+<img src="https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Profile Image" width="150" style="border-radius:10px;">
+
+
+
 | 항목 | 내용 |
 |------|------|
 | 이름 | 마예린 (Ma Yerin) |
