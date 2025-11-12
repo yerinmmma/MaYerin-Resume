@@ -1,5 +1,5 @@
 # MaYerin-Resume
-Markdown으로 작성한 개인 이력서 저장소
+Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 
 ---
 ## 📑 목차
@@ -13,7 +13,6 @@ Markdown으로 작성한 개인 이력서 저장소
 ---
 ## [1] 🧑‍💻 기본정보
 <img src="https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Profile Image" width="150" style="border-radius:10px;">
-
 
 
 | 항목 | 내용 |
@@ -33,7 +32,10 @@ Markdown으로 작성한 개인 이력서 저장소
 | 2019.03 ~ 2021.01 | 금호중앙여자고등학교 |  | 졸업 |
 
 ---
-## [3] 💻 기술 스택  
+## [3] 💻 기술 스택
+<details>
+<summary>🔍자세히 보기 </summary>
+<br>
 
 ### 🧠 Programming Languages  
 
@@ -53,7 +55,7 @@ Eclipse 환경에서 **객체지향 프로그래밍(OOP)** 의 핵심 개념을 
 객체지향 설계 패턴의 중요성을 이해하고 **구조적인 코드 작성 역량**을 강화함  
 
 #### 3️⃣ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python  
-Python IDLE 환경에서 기본 문법, 자료형, 조건문, 반복문 등을 실습하며 
+Python IDLE 환경에서 기본 문법, 자료형, 조건문, 반복문 등을 실습하며  
 **프로그래밍의 기초를 익힘**  
 파일 입출력 기능을 사용해 데이터를 읽고 쓰는 과정을 연습하고  
 간단한 자동화 스크립트를 작성하여 **반복적인 작업을 효율화함**  
@@ -90,12 +92,18 @@ README 문서를 작성해 **프로젝트 구조와 기술 스택을 문서화**
 
 #### 5️⃣ ![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white) MySQL Workbench  
 MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고  
-쿼리 실행, 데이터 수정, 테이블 구조 시각화를 통해 실무형 DB 관리 역량을 강화함
+쿼리 실행, 데이터 수정, 테이블 구조 시각화를 통해 실무형 DB 관리 역량을 강화함  
+
+</details>
+
 
 
 ---
 
 ## [4] 📚 프로젝트 경험
+<details>
+<summary>🔍자세히 보기 </summary>
+<br>
 
 #### 1️⃣ 파이썬 기반 식당 추천 프로그램 제작 (2024.11) 
 
@@ -148,8 +156,14 @@ MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고
 - 제로 트러스트 구현 시 고려해야 할 **기술적·관리적 요소**를 체계적으로 정리함 
 
 🔗[제로 트러스트보안 모델 발표자료](https://github.com/yerinmmma/Yerin-File/blob/main/제로트러스트.pptx)
+</details>
+
+---
 
 ## [5] 💼 기타 경험
+<details>
+<summary>🔍자세히 보기 </summary>
+<br>
 
 #### 1️⃣ 뺵다방 (2024.06 ~ 2025.10)  
 **역할:** 매장 운영 보조  
@@ -164,11 +178,14 @@ MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고
 #### 3️⃣ 교내 근로: 행정법무대학원 (2025.09 ~ 재직 중)  
 **역할:** 강의 지원 및 시설 관리  
 - 강의실 관리, 수업 지원 및 행정 업무 보조
+</details>
 
 ---
  
 ## [6] 🧾 자기소개서
-
+<details>
+<summary>🔍자세히 보기 </summary>
+<br>
 #### 1️⃣ 지원 동기 및 전공 선택 이유
 
 기술이 발전할수록 보안의 중요성은 더욱 커지고 있습니다.  
@@ -237,7 +254,7 @@ MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고
 저는 **학문적 지식과 기술적 역량**, 그리고 **현장 경험**을 균형 있게 발전시켜 **이론과 실무를 아우르는 보안 전문가**로 성장하겠습니다.  
 지속적인 학습과 경험을 통해 변화하는 환경 속에서도 **전문성을 유지하며**, **조직이 신뢰할 수 있는 안정적인 보안 인재**로 자리매김하겠습니다.  
 
-
+</details>
 
 
 
