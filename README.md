@@ -43,7 +43,7 @@ Cybersecurity Major at Dankook Univ.
 |------|----------|
 | C | ⭐⭐⭐☆☆ |
 | Java | ⭐⭐⭐☆☆ |
-| Python | ⭐⭐⭐☆☆ |
+| Python | ⭐⭐⭐⭐☆ |
 | SQL | ⭐⭐⭐☆☆ |
 | GitHub | ⭐⭐⭐☆☆ |
 
