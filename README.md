@@ -11,6 +11,7 @@ Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 - [6. 자기소개서](#6-자기소개서)
 
 ---
+
 ## [1] 🧑‍💻 기본정보
 <img src="https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Profile Image" width="150" style="border-radius:10px;">
 
@@ -29,15 +30,23 @@ Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 | 2022.03 ~ 2024.02 | 부산대학교 | 경제학과 | 중퇴 |
 | 2019.03 ~ 2021.01 | 금호중앙여자고등학교 |  | 졸업 |
 
-
 ---
-## [3] 💻 기술 스택
+
+## [3] 💻 기술 스택  
+
+| 기술 | 숙련도 |
+|------|----------|
+| C | ⭐⭐⭐☆☆ |
+| Java | ⭐⭐⭐☆☆ |
+| Python | ⭐⭐⭐☆☆ |
+| SQL | ⭐⭐⭐☆☆ |
+| GitHub | ⭐⭐⭐☆☆ |
+
 <details>
 <summary>🔍자세히 보기 </summary>
 <br>
 
 ### 🧠 Programming Languages  
-
 #### 1️⃣ ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) C 언어  
 Visual Studio 환경에서 **기본 문법과 자료 처리 방식**을 중심으로 실습함  
 함수 분할과 헤더 파일 구성을 통해 코드 구조화 방법을 익혔으며  
@@ -62,16 +71,15 @@ Python IDLE 환경에서 기본 문법, 자료형, 조건문, 반복문 등을 �
 또한 **함수화와 반복 구조 설계**를 통해 코드의 가독성과 실행 효율성을 높였으며  
 작은 규모의 프로그램을 완성하면서 **문제 해결 능력과 논리적 사고력을 향상시킴**  
 
-#### 4️⃣ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL  
+#### 4️⃣ ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) SQL  
 MySQL Workbench 환경에서 **기초적인 SQL 문법(SELECT, WHERE, ORDER BY, GROUP BY)** 을 실습함  
 테이블 구조를 이해하고 **데이터 조회 및 조건별 검색 쿼리**를 작성함  
 **JOIN, 집계 함수, 서브쿼리** 등을 활용해 여러 테이블의 데이터를 분석하며  
 데이터베이스의 기본 원리와 **질의 최적화 과정**을 학습함  
 
----
+<br>
 
-### 🛠️ Development Tools  
-
+### 🧰 Development Tools  
 #### 1️⃣ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) Visual Studio  
 C 언어 실습 환경으로 사용하여 기본 문법과 구조를 학습함  
 반복문과 조건문 중심의 로직을 구현하고 디버깅 기능으로 **변수 상태와 실행 흐름**을 점검함  
@@ -87,15 +95,13 @@ Python IDLE 환경에서 **조건문, 반복문, 함수 구조 중심의 코드 
 
 #### 4️⃣ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub  
 코드 버전 관리와 커밋 단위 기록을 통해 **작업 이력 관리 및 협업 흐름**을 익힘  
-README 문서를 작성해 **프로젝트 구조와 기술 스택을 문서화**함  
+README 문서를 작성해 **프로젝트 구조를 명확히 문서화하고 버전 이력을 체계적으로 관리함**
 
 #### 5️⃣ ![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white) MySQL Workbench  
 MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고  
 쿼리 실행, 데이터 수정, 테이블 구조 시각화를 통해 실무형 DB 관리 역량을 강화함  
 
 </details>
-
-
 
 ---
 
@@ -178,14 +184,15 @@ MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고
 **역할:** 강의 지원 및 시설 관리  
 - 강의실 관리, 수업 지원 및 행정 업무 보조
 </details>
-
+  
 ---
  
 ## [6] 🧾 자기소개서
 <details>
 <summary>🔍자세히 보기 </summary>
-<br>
-#### 1️⃣ 지원 동기 및 전공 선택 이유
+<br> 
+
+### 1️⃣ 지원 동기 및 전공 선택 이유
 
 기술이 발전할수록 보안의 중요성은 더욱 커지고 있습니다.  
 인공지능, 클라우드, 사물인터넷 등 새로운 기술이 빠르게 확산되면서  
@@ -233,7 +240,6 @@ MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고
 이를 보완하기 위해 **우선순위를 명확히 설정하고 목표를 세분화**하여  
 기한 내 결과를 낼 수 있도록 노력했습니다.  
 그 결과, 단순한 성실함을 넘어 **문제를 분석적으로 바라보고 스스로 해결하는 태도**를 갖춘 인재로 성장했습니다.  
-
 
 ### 3️⃣ 향후 계획 및 학습 목표
 
