@@ -1,8 +1,10 @@
 # MaYerin-Resume
-Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
+Markdown 기반 이력서 
+Cybersecurity Major at Dankook Univ.
 
 ---
 ## 📑 목차
+
 - [1. 기본정보](#1-기본정보)
 - [2. 학력사항](#2-학력사항)
 - [3. 기술 스택](#3-기술-스택)
@@ -13,22 +15,25 @@ Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 ---
 
 ## [1] 🧑‍💻 기본정보
+
 <img src="https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Profile Image" width="150" style="border-radius:10px;">
 
 **이름:** 마예린 (Ma Yerin)  
 **생년월일:** 2003.06.30  
 **주소:** 경기도 용인시  
 **이메일:** [yelinma66@gmail.com](mailto:yelinma66@gmail.com)  
-**GitHub:** [github.com/yerinmmma](https://github.com/yerinmmma)
+**GitHub:** [github.com/yerinmmma](https://github.com/yerinmmma)  
+![GitHub followers](https://img.shields.io/github/followers/yerinmmma?label=Follow&style=social)
 
 ---
 
 ## [2] 🎓 학력사항
+
 | 기간 | 학교명 | 전공 | 비고 |
-|------|---------|------|------|
-| 2024.03 ~ 재학중 | 단국대학교 | 사이버보안학과 |  |
-| 2022.03 ~ 2024.02 | 부산대학교 | 경제학과 | 중퇴 |
-| 2019.03 ~ 2021.01 | 금호중앙여자고등학교 |  | 졸업 |
+|:------:|:---------|:------|:------|
+| 2024.03 ~ 재학중 | **단국대학교** | 사이버보안학과 |  |
+| 2022.03 ~ 2024.02 | **부산대학교** | 경제학과 | 중퇴 |
+| 2019.03 ~ 2021.01 | **금호중앙여자고등학교** |  | 졸업 |
 
 ---
 
@@ -48,58 +53,66 @@ Markdown 기반 이력서 | Cybersecurity Major at Dankook Univ.
 
 ### 🧠 Programming Languages  
 #### 1️⃣ ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) C 언어  
-Visual Studio 환경에서 **기본 문법과 자료 처리 방식**을 중심으로 실습함  
-함수 분할과 헤더 파일 구성을 통해 코드 구조화 방법을 익혔으며  
-포인터를 이용해 **메모리 주소와 참조 개념**을 이해하고 함수 호출 시 데이터 전달 구조를 학습함  
-프로그램이 **메모리에서 실행되는 구조와 프로세스 흐름**을 이해함  
+Visual Studio 환경에서 **기본 문법과 자료 처리 방식**을 중심으로 실습함.  
+함수 분할과 헤더 파일 구성을 통해 **코드 구조화 방법**을 익혔으며,  
+포인터를 활용해 **메모리 주소와 참조 개념**을 이해하고, 함수 호출 시 **데이터 전달 구조**를 학습함.  
+프로그램이 **메모리에서 실행되는 과정과 프로세스 흐름**을 분석하며 시스템 동작 원리를 이해함.
 
 #### 2️⃣ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) Java  
-Eclipse 환경에서 **객체지향 프로그래밍(OOP)** 의 핵심 개념을 학습함  
-클래스와 생성자를 활용해 **객체 생성 및 초기화 과정**을 실습함  
-상속을 통해 **코드 중복을 줄이고 기능 확장 구조**를 이해함  
-다중 클래스 간 **데이터 전달 구조**를 설계하여 협력 관계를 구현함  
-예외 처리와 디버깅 기능을 통해 **프로그램 안정성과 오류 대응 능력**을 향상시킴  
-**캡슐화 · 상속 · 다형성** 원리를 적용해 코드의 재사용성과 유지보수성을 높임  
-객체지향 설계 패턴의 중요성을 이해하고 **구조적인 코드 작성 역량**을 강화함  
+Eclipse 환경에서 **객체지향 프로그래밍(OOP)** 의 핵심 개념을 학습함.  
+클래스와 생성자를 활용해 **객체 생성 및 초기화 과정**을 실습하였으며,  
+상속을 통해 **코드 중복을 줄이고 기능 확장 구조**를 이해함.  
+다중 클래스 간 **데이터 전달 구조**를 설계하여 협력 관계를 구현함.  
+예외 처리와 디버깅 기능을 통해 **프로그램 안정성과 오류 대응 능력**을 향상시킴.  
+**캡슐화·상속·다형성** 원리를 적용해 코드의 재사용성과 유지보수성을 높였으며,  
+객체지향 설계 패턴의 중요성을 이해하고 **구조적인 코드 작성 역량**을 강화함.  
 
 #### 3️⃣ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python  
 Python IDLE 환경에서 기본 문법, 자료형, 조건문, 반복문 등을 실습하며  
-**프로그래밍의 기초를 익힘**  
-파일 입출력 기능을 사용해 데이터를 읽고 쓰는 과정을 연습하고  
-간단한 자동화 스크립트를 작성하여 **반복적인 작업을 효율화함**  
-**리스트와 딕셔너리 등 자료구조의 활용법**을 익히고 데이터 처리 흐름을 이해함  
-또한 **함수화와 반복 구조 설계**를 통해 코드의 가독성과 실행 효율성을 높였으며  
-작은 규모의 프로그램을 완성하면서 **문제 해결 능력과 논리적 사고력을 향상시킴**  
+**프로그래밍의 기초와 데이터 처리 흐름**을 이해함.  
+파일 입출력 기능을 활용해 데이터를 읽고 쓰는 과정을 익혔으며,  
+**함수화와 반복 구조 설계**를 통해 코드의 가독성과 실행 효율성을 높임.  
+작은 규모의 프로그램을 완성하면서 **문제 해결 능력과 논리적 사고력**을 향상시킴.  
 
 #### 4️⃣ ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) SQL  
-MySQL Workbench 환경에서 **기초적인 SQL 문법(SELECT, WHERE, ORDER BY, GROUP BY)** 을 실습함  
-테이블 구조를 이해하고 **데이터 조회 및 조건별 검색 쿼리**를 작성함  
-**JOIN, 집계 함수, 서브쿼리** 등을 활용해 여러 테이블의 데이터를 분석하며  
-데이터베이스의 기본 원리와 **질의 최적화 과정**을 학습함  
+MySQL Workbench 환경에서 **기초적인 SQL 문법(SELECT, WHERE, ORDER BY, GROUP BY)** 을 실습함.  
+테이블 구조를 이해하고 **데이터 조회 및 조건별 검색 쿼리**를 작성함.  
+**JOIN, 집계 함수, 서브쿼리** 등을 활용해 여러 테이블의 데이터를 분석하였으며,  
+데이터베이스의 기본 원리와 **질의 최적화 과정**을 이해함.  
 
 <br>
 
 ### 🧰 Development Tools  
+
 #### 1️⃣ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) Visual Studio  
-C 언어 실습 환경으로 사용하여 기본 문법과 구조를 학습함  
-반복문과 조건문 중심의 로직을 구현하고 디버깅 기능으로 **변수 상태와 실행 흐름**을 점검함  
+C 언어 코드를 작성하고 실행하기 위한 **개발 및 디버깅 환경**으로 활용함.  
+반복문과 조건문 중심의 로직을 구현하며, **디버깅 기능을 통해 오류 원인을 추적하고 프로그램의 동작 흐름을 검증함.**  
+이를 통해 코드의 정확성과 실행 안정성을 **향상시킴.**  
 
 #### 2️⃣ ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) Eclipse  
-Java 프로젝트 관리 및 실행 환경으로 활용함  
-클래스와 메서드를 설계하며 객체 간 **데이터 전달 구조**를 이해하고  
-오류 발생 시 실행 흐름을 추적하며 **코드 로직을 점검하고 개선하는 방법**을 학습함  
+Java 프로젝트 관리 및 실행 환경으로 활용함.  
+클래스와 메서드를 설계하며 객체 간 **데이터 전달 구조**를 이해하고,  
+**예외 처리와 디버깅**을 통해 프로그램의 안정성과 유지보수성을 개선함.  
+이를 통해 **객체지향 설계 및 코드 품질 관리 역량을 향상시킴.**  
 
 #### 3️⃣ ![Python](https://img.shields.io/badge/Python%20IDLE-3776AB?style=flat&logo=python&logoColor=white) Python IDLE  
-Python IDLE 환경에서 **조건문, 반복문, 함수 구조 중심의 코드 작성과 테스트**를 병행함  
-리스트·딕셔너리 등의 자료구조를 활용하여 **간단한 데이터 처리 및 자동화 스크립트**를 구현함  
+Python 코드 작성 및 테스트용 **기본 개발 환경**으로 활용함.  
+조건문, 반복문, 함수 구조 중심으로 코드를 작성하고 실행하여 **로직 검증과 오류 수정**을 반복함.  
+리스트·딕셔너리 등 자료구조를 적용해 **간단한 데이터 처리 및 자동화 스크립트**를 구현하며,  
+**프로그램 설계 능력과 디버깅 역량을 향상시킴.**  
 
-#### 4️⃣ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub  
-코드 버전 관리와 커밋 단위 기록을 통해 **작업 이력 관리 및 협업 흐름**을 익힘  
-README 문서를 작성해 **프로젝트 구조를 명확히 문서화하고 버전 이력을 체계적으로 관리함**
+#### 4️⃣ ![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white) MySQL Workbench  
+데이터베이스 설계 및 관리용 **SQL 시각화 도구**로 활용함.  
+데이터베이스를 생성·관리하고 쿼리를 실행하여 **데이터 검색 및 수정 절차**를 실습함.  
+테이블 구조를 시각적으로 분석하며 **데이터 관계 및 질의 최적화 과정**을 이해함.  
+이를 통해 **DB 설계 및 관리 능력을 향상시킴.**  
 
-#### 5️⃣ ![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white) MySQL Workbench  
-MySQL Workbench 환경에서 데이터베이스를 생성 및 관리하고  
-쿼리 실행, 데이터 수정, 테이블 구조 시각화를 통해 실무형 DB 관리 역량을 강화함  
+#### 5️⃣ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub  
+코드 버전 관리와 협업을 위한 **소스 관리 도구**로 활용함.  
+커밋 단위로 작업 이력을 관리하며, **브랜치 기능을 통해 변경 사항을 체계적으로 추적함.**  
+README 문서를 작성하여 프로젝트 구조와 기술 스택을 명확히 문서화함.  
+이를 통해 **협업 효율성과 프로젝트 관리 역량을 향상시킴.**  
+
 
 </details>
 
