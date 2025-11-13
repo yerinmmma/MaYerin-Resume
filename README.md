@@ -120,60 +120,54 @@ README 문서를 작성하여 프로젝트 구조와 기술 스택을 명확히 
 
 ## [4] 📚 프로젝트 경험
 <details>
-<summary>🔍자세히 보기 </summary>
+<summary>🔍자세히 보기</summary>
+
 <br>
 
-#### 1️⃣ 파이썬 기반 식당 추천 프로그램 제작 (2024.11) 
+#### 1️⃣ 파이썬 기반 식당 추천 프로그램 제작 (2024.11)
 
-- 음식 카테고리(한식, 양식, 중식, 일식 등)를 기반으로 식당을 추천하는 **콘솔형 프로그램** 개발  
-- `Restaurant` 클래스를 기반으로 `KoreanRestaurant`, `WesternRestaurant`, `JapaneseRestaurant`
-  등 하위 클래스를 정의하여 **상속** 구조를 구현함  
-- 각 하위 클래스에서 `recommend()` 메서드를 재정의하여 **다형성**
-  을 활용, 동일한 인터페이스로 서로 다른 추천 결과를 출력하도록 설계함  
-- `restaurant.py` 모듈에 클래스들을 모아두고, `main.py`에서 import하는 방식으로  
-  코드의 **모듈화** 및 **재사용성** 을 강화함  
-- 불필요한 조건문 중복을 제거하고 **간결한 구조와 확장성 높은 코드**를 구현함
- 
-🔗[코드 보기 main](https://github.com/yerinmmma/Yerin-File/blob/main/main.py)
-🔗[코드 보기 import](https://github.com/yerinmmma/Yerin-File/blob/main/restaurant.py)
+음식 카테고리(한식, 양식, 중식, 일식 등)에 따라 식당을 추천하는 **콘솔형 프로그램**을 개발함.  
+`Restaurant` 클래스를 기반으로 하위 클래스를 정의하여 **상속 구조**를 구현함.  
+각 하위 클래스에서 `recommend()` 메서드를 재정의해 **다형성**을 활용함.  
+`restaurant.py` 모듈과 `main.py`를 분리하여 코드의 **모듈화 및 재사용성**을 강화함.  
+불필요한 조건문 중복을 제거하고 **간결하고 확장성 높은 코드 구조**를 구현함.  
+
+🔗 [코드 보기 main](https://github.com/yerinmmma/Yerin-File/blob/main/main.py)  
+🔗 [코드 보기 import](https://github.com/yerinmmma/Yerin-File/blob/main/restaurant.py)
 
 #### 2️⃣ 클라우드 보안 및 위협 분석 보고서 (2025.04)
 
-- 클라우드 환경에서 발생 가능한 **보안 취약점**과 **데이터 유출 위험**을 중심으로 심층 조사  
-- **암호화 기술** 및 키 관리 방식 분석  
-- **IAM(Identity & Access Management)** 정책·권한 모델 검토를 통해 권한 남용(RBAC/ABAC 한계)
-  및 권한 분리 방안 제시  
-- **취약점 관리 체계(취약점 탐지 → 패치 → 검증)** 프로세스와 자동화 도구의 적용 가능성 평가  
-- **제로 트러스트(Zero Trust)**와 **AI 기반 보안 전략**을 비교·분석하여 각 접근 방식의 장단점
-  및 상호 보완 방안 도출  
-- Capital One(2019), TransUnion(2022) 사례 분석을 통해 실무적 교훈 도출 및 **클라우드 보안 거버
-  넌스·리스크 대응 체계 개선 방향** 제안  
+클라우드 환경에서 발생 가능한 **보안 취약점**과 **데이터 유출 위험**을 중심으로 심층 조사함.  
+**암호화 기술** 및 키 관리 방식의 중요성을 분석함.  
+**IAM(Identity & Access Management)** 정책과 권한 모델을 검토하여  
+권한 남용(RBAC/ABAC 한계) 및 분리 방안을 제시함.  
+**취약점 관리 체계(탐지 → 패치 → 검증)** 과정과 자동화 도구의 적용 가능성을 평가함.  
+**Zero Trust** 및 **AI 기반 보안 전략**을 비교·분석하여 상호 보완 방향을 도출함.  
+Capital One(2019), TransUnion(2022) 사례를 기반으로  
+**클라우드 보안 거버넌스 및 리스크 대응 체계 개선 방안**을 제시함.  
 
-🔗[클라우드 보안 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/클라우드%20보안%20보고서.docx)
+🔗 [클라우드 보안 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/클라우드%20보안%20보고서.docx)
 
-#### 3️⃣ AI 기반 침입 탐지 시스템 연구 보고서 (2025.06) 
+#### 3️⃣ 제로 트러스트 보안 모델 연구 및 발표 (2025.05)
 
-- **CNN-LSTM, Autoencoder, GAN** 등 다양한 AI 기반 침입 탐지(IDS) 모델의 구조와 학습 메커니즘을
-  비교·분석함  
-- 실제 보안 데이터셋을 활용하여 **데이터 편향**, **오탐(False Positive)**, **미탐(False
-  Negative)** 문제를 검토함  
-- 모델의 **성능 한계** 및 **개선 가능성**을 다각도로 평가함  
-- **윤리적·법적 쟁점**과 **AI 보안의 신뢰성(Trustworthy Security)** 확보 방안을 탐구함  
-- 궁극적으로 **예측형 보안 체계(Preventive Security System)** 로의 발전 방향을 제시함  
+기존 **경계 기반 보안 모델(Perimeter Security)** 의 구조적 한계를 분석함.  
+**Zero Trust 프레임워크**를 기반으로 내부 위협 방지 및 접근 제어 강화 방안을 제시함.  
+**Colonial Pipeline(2021)**, **MOVEit(2023)** 사례를 중심으로 침입 경로 및 인증 실패 요인을 비교·분석함.  
+**MFA(Multi-Factor Authentication)**, **Micro-Segmentation**, **SDP(Software Defined Perimeter)** 등  
+핵심 기술 원리를 시각 자료와 함께 발표함.  
+제로 트러스트 구현 시 고려해야 할 **기술적·관리적 요소**를 체계적으로 정리함.  
 
-🔗[AI 기반 침입 탐지 시스템 연구 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/인공지능(AI)%20기반%20침입%20탐지%)
+🔗 [제로 트러스트 보안 모델 발표자료](https://github.com/yerinmmma/Yerin-File/blob/main/제로트러스트.pptx)
 
-#### 4️⃣ 제로 트러스트보안 모델 연구 및 발표 (2025.05) 
+#### 4️⃣ AI 기반 침입 탐지 시스템 연구 보고서 (2025.06)
 
-- 기존 **경계 기반 보안 모델(Perimeter Security)** 의 구조적 한계를 분석함  
-- **Zero Trust 프레임워크**를 기반으로 내부 위협 방지 및 접근 제어 강화 방안을 제시함  
-- **Colonial Pipeline(2021)**, **MOVEit(2023)** 사례를 중심으로 침입 경로 및 인증 실패 요인을
-  비교·분석함  
-- **MFA(Multi-Factor Authentication)**, **Micro-Segmentation**, **SDP(Software Defined
-  Perimeter)** 등 핵심 기술 원리를 시각 자료와 함께 발표함  
-- 제로 트러스트 구현 시 고려해야 할 **기술적·관리적 요소**를 체계적으로 정리함 
+**CNN-LSTM, Autoencoder, GAN** 등 다양한 AI 기반 침입 탐지(IDS) 모델의 구조와 학습 메커니즘을 비교·분석함.  
+실제 보안 데이터셋을 활용하여 **데이터 편향**, **오탐(False Positive)**, **미탐(False Negative)** 문제를 검토함.  
+모델의 **성능 한계**와 **개선 가능성**을 다각도로 평가함.  
+**윤리적·법적 쟁점**과 **AI 보안의 신뢰성(Trustworthy Security)** 확보 방안을 탐구함.  
+궁극적으로 **예측형 보안 체계(Preventive Security System)** 로의 발전 방향을 제시함.  
 
-🔗[제로 트러스트보안 모델 발표자료](https://github.com/yerinmmma/Yerin-File/blob/main/제로트러스트.pptx)
+🔗 [AI 기반 침입 탐지 시스템 연구 보고서](https://github.com/yerinmmma/Yerin-File/blob/main/인공지능(AI)%20기반%20침입%20탐지%)
 </details>
 
 ---
